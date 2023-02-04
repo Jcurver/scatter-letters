@@ -1,6 +1,6 @@
 {
   "name": "scatter-letters",
-  "version": "0.0.3",
+  "version": "0.0.17",
   "packageManager": "yarn@3.2.4",
   "exports": {
     ".": {
