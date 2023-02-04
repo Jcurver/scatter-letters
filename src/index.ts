@@ -57,17 +57,20 @@ export default class SckatterLetter {
 
     this.top = top;
     this.left = left;
+
     this.pointerX = -5000;
     this.pointerY = -5000;
+
     this.points = [];
     this.strs = strs;
     this.mouseThickness = mouseThickness ? mouseThickness : fontSize / 1.8;
     this.sparkLevel = sparkLevel;
     this.comebackSpeed = comebackSpeed;
-    this.color = color;
     this.flyingDotColor = flyingDotColor;
     this.blankWidth = blankWidth;
     this.letterSpacing = letterSpacing;
+    
+    this.color = color;
     this.stageWidth = document.body.clientWidth;
     this.stageHeight = document.body.clientHeight;
 

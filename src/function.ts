@@ -5,6 +5,7 @@ const customBlank = (width: number): number[][] => {
     return [[-1]];
   }
   let x = [];
+
   for (let i = 0; i < width; i++) {
     x.push(0);
   }
@@ -39,6 +40,7 @@ export const getStrs = (
   const strsArr = strs.toUpperCase().split("");
 
   let dotArr = [[-1]];
+
   for (let i = 0; i < strsArr.length; i++) {
     switch (strsArr[i]) {
       case " ":

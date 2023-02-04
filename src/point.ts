@@ -29,6 +29,7 @@ export class Point {
   fixY: number;
   isMove: boolean;
   farRatio: number;
+
   constructor(x: number, y: number, size: number) {
     this.fixX = x;
     this.fixY = y;
@@ -38,6 +39,7 @@ export class Point {
     this.isMove = false;
     this.farRatio = 0;
   }
+
   update({
     pointerX,
     pointerY,
