@@ -20,7 +20,6 @@
     "@swc/core": "^1.3.11",
     "@swc/jest": "^0.2.23",
     "@types/jest": "^29.2.0",
-    "@types/react": "^18.0.27",
     "@yarnpkg/esbuild-plugin-pnp": "^3.0.0-rc.15",
     "concurrently": "^7.5.0",
     "esbuild": "^0.15.12",
@@ -36,8 +35,5 @@
     "build:dts": "tsc -p ./tsconfig.build.json --emitDeclarationOnly --noEmit false",
     "build:js": "node ./esbuild.config.js",
     "dev": "concurrently \"yarn build:js --watch\" \"yarn build:dts --watch\""
-  },
-  "dependencies": {
-    "react": "^18.2.0"
   }
 }
