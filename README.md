@@ -5,9 +5,10 @@
 
 ## 📝 Blog => https://velog.io/@ifizzyou/Interactive-Coding-Scatter-Letters
 
+## 🎥 Youtube Demo : https://www.youtube.com/watch?v=eVliGZLmwks&feature=youtu.be
+
 <a href="https://ibb.co/ZL1N99L"><img src="https://i.ibb.co/tmP3RRm/2023-02-04-4-22-59.png" alt="2023-02-04-4-22-59" border="0" /></a>
 
-### 🎥 Youtube Demo : https://www.youtube.com/watch?v=eVliGZLmwks&feature=youtu.be
 
 This project was created with inspiration from watching Interactive Developer Kim Jong-min's YouTube.
 
