@@ -3,8 +3,6 @@
 ### The text is scattered when the mouse passes over it.
 ### No PeerDependency! Good performance!
 
-## 📝 Blog => https://velog.io/@ifizzyou/Interactive-Coding-Scatter-Letters
-
 ## 🎥 Youtube Demo : https://www.youtube.com/watch?v=eVliGZLmwks&feature=youtu.be
 ## NPM : https://www.npmjs.com/package/scatter-letters
 
